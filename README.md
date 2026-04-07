@@ -5,7 +5,7 @@ This project involves an end-to-end database analysis for a retail company using
 
 ## 📂 Project Deliverables
 * **[SQL Analysis Script](scripts/analysis_queries.sql):** Complete MySQL script including DDL (Table constraints), DML (Data cleaning), and analytical queries.
-* **[Full Business Report (PDF)](SQL%20Portfolio%20Project-%20Report.pdf):** 17-page formal documentation featuring the ERD diagram, result snapshots, and executive summaries.
+* **[Full Business Report (PDF)](reports/SQL%20Portfolio%20Project-%20Report.pdf):** 17-page formal documentation featuring the ERD diagram, result snapshots, and executive summaries.
 
 ---
 
